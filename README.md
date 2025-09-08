@@ -4,4 +4,8 @@ En este proyecto se realiza un paso a paso del procedimiento para utilizar plata
 <!--
 TODO: subir mas problemas de otras plataformas
 mas dificiles
+
+series de seno
+fibonnachi
+numero palindromo
 -->
